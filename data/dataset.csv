@@ -1,0 +1,20 @@
+symptoms,department
+fever cough cold,General Physician
+high fever body pain,General Physician
+chest pain heart pain,Cardiology
+shortness of breath,Cardiology
+skin rash itching,Dermatology
+acne pimples,Dermatology
+headache migraine,Neurology
+tooth pain,Dentistry
+eye redness,Ophthalmology
+stomach pain vomiting,Gastroenterology
+joint pain arthritis,Orthopedics
+ear pain hearing loss,ENT
+anxiety stress depression,Psychiatry
+diabetes sugar problem,Endocrinology
+migraine headache,Neurology
+eye pain blurred vision,Ophthalmology
+tooth pain gum swelling,Dentistry
+high blood pressure,Cardiology
+back pain spine issue,Orthopedics
